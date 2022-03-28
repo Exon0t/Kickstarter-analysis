@@ -1,6 +1,6 @@
-kickstarter-analysis
-#Overview of Project:
-##Our client Louise has found that her recent play “Fever” Has come close to the intended goal in a short amount of time and is curious to see if there was a correlation to when the launch date was set. Looking at the data !Fever_data1.png it seems that the play itself was not successful, so I am also curious to see if the data shows a drop off during this time. 
+#kickstarter-analysis
+##Overview of Project:
+###Our client Louise has found that her recent play “Fever” Has come close to the intended goal in a short amount of time and is curious to see if there was a correlation to when the launch date was set. Looking at the data !Fever_data1.png it seems that the play itself was not successful, so I am also curious to see if the data shows a drop off during this time. 
 #Analysis and Challenges
   ##Through the process of this new journey on excel I would try to find my own short cuts failing at some points and learning from my mistakes.  While working with the data at first, I realized I did not save the work I have done previously causing me to redo the data mistakenly using year() command earlier then intended when trying to convert the original date (EX: 1461857045). Realizing my mistake, I quickly fixed it while also creating a little cheat sheet for the future. 
 
